@@ -3,7 +3,7 @@ name: Deploy CI Pipeline
 on: 
   push:
     branches:
-      - master
+      - main
   
 jobs:
     hello_job:
